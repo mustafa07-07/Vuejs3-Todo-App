@@ -4,7 +4,7 @@
       <div class="col m-1 col-md-4 col-sm-4">
         <select
           class="form-select"
-          v-model="priority"
+          v-model="priority" 
           aria-label=".form-select-lg example"
           label="Please indicate the degree of importance of your task."
         >

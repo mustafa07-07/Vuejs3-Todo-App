@@ -1,6 +1,6 @@
 <template>
         <div class="alert alert-danger text-center" role="alert">
-          <h5>You haven't added a task yet.</h5>
+          <h5>You haven't added a task yet. </h5>
           <div class="spinner-grow text-primary" role="status"></div>
           <div class="spinner-grow text-secondary" role="status"></div> 
           <div class="spinner-grow text-success" role="status"></div>

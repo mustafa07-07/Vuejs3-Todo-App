@@ -1,5 +1,5 @@
 <template>
-  <div v-if="this.totalCount <= 0">
+  <div v-if="this.totalCount  <= 0">
    </div>
   <div class="d-flex justify-content-around mt-1" v-else>
     <div class="btn-group">
